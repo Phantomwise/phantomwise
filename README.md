@@ -18,6 +18,8 @@ Here are some pointless stats that look very pretty :
 
 ![Phantomwise's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantomwise&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
+Ooooh look at those colors !
+
 <!--
 **Phantomwise/phantomwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

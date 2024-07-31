@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+
+I like shiny stuff so I do ricing.
 
 <!--
 **Phantomwise/phantomwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

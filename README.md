@@ -10,7 +10,12 @@ I like shiny stuff so I do ricing. And a bit of ASCII art.
 
 I'm still trying to figure out how that github thing works.
 
-Here are some pointless stats that look very pretty :
+### Maintainer for:
+- [sausage-git](https://aur.archlinux.org/packages/sausage-git) [AUR]
+  - **Description :** AUR package for the bash word game [sausage](https://gitlab.com/christosangel/sausage) by [Christos Angelopoulos](https://gitlab.com/christosangel)
+  - **Upstream project :** [Sausage on GitLab](https://gitlab.com/christosangel/sausage)
+
+### Here are some pointless stats that look very pretty :
 
 ![Phantomwise's Stats](https://github-readme-stats.vercel.app/api?username=Phantomwise&theme=radical&show_icons=true&hide_border=true&count_private=true)
 

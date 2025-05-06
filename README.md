@@ -10,10 +10,10 @@ I like shiny stuff so I do ricing. And a bit of ASCII art.
 
 I'm still trying to figure out how that github thing works.
 
-### Maintainer for:
+### Packager and maintainer for:
 - [sausage-git](https://aur.archlinux.org/packages/sausage-git) [AUR]
-  - **Description :** AUR package for the bash word game [sausage](https://gitlab.com/christosangel/sausage) by [Christos Angelopoulos](https://gitlab.com/christosangel)
-  - **Upstream project :** [Sausage on GitLab](https://gitlab.com/christosangel/sausage)
+  - AUR package for [sausage](https://gitlab.com/christosangel/sausage) by [Christos Angelopoulos](https://gitlab.com/christosangel), A terminal word-forming game written in Bash
+  - My very first package 🥳 🥳 🥳
 
 ### Here are some pointless stats that look very pretty :
 
